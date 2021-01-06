@@ -579,10 +579,10 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@vercel/node@^1.8.4":
-  version "1.8.4"
-  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-1.8.4.tgz#43bbc2e39f97979390e0f968952bba4ebfdcb22e"
-  integrity sha512-4bwJVqia4e/qDgBbdDWL2INZS5F/nouUDK+onJwi3xKGy7829cb8b9g2j7pMcqonv2U/xzOCUMyTr+uESx9hHQ==
+"@vercel/node@^1.8.6-canary.3":
+  version "1.8.6-canary.3"
+  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-1.8.6-canary.3.tgz#0432566b0c5d6080b7fa18ee4457d2e790fd87d9"
+  integrity sha512-BHpA+AdpQMSdrPHBVUMlXgQAGtcLfxwf1v3EM5BeZaP2RBejHRNxrwTy5JMjGhKu1/F54iDxIQzf3g6CcdxtXQ==
   dependencies:
     "@types/node" "*"
     ts-node "8.9.1"
