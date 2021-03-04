@@ -599,10 +599,10 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@vercel/node@^1.9.1-canary.0":
-  version "1.9.1-canary.0"
-  resolved "https://registry.npmjs.org/@vercel/node/-/node-1.9.1-canary.0.tgz"
-  integrity sha512-dZUxOuB7YvQIYK7HwhQal0AfPI++NT4fyaWFcH173hK+C4ILlamfmWIWR9v/w0jdbaYb2tuaYPd/4gumAcsyRg==
+"@vercel/node@^1.9.1-canary.1":
+  version "1.9.1-canary.1"
+  resolved "https://registry.npmjs.org/@vercel/node/-/node-1.9.1-canary.1.tgz"
+  integrity sha512-sDc4JA8JxNRyOZ/UJNqjs948Ip4T4k6/O6evP7FPcR8vs2FU4wQWtbIjTeCJpiPfOYN7EUGEkQk0HcGp2QC3lw==
   dependencies:
     "@types/node" "*"
     ts-node "8.9.1"
