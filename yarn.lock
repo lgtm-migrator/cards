@@ -628,10 +628,10 @@
   resolved "https://registry.npmjs.org/@vercel/node-bridge/-/node-bridge-2.2.1.tgz"
   integrity sha512-GJdBio0nKyxvFwfLcj6CMp2s22d5V6K9tmhmHkQcaiFwdKWK/Pa7jngiO84a09fvX+DFaOtpalJuxQa5LAJ9xQ==
 
-"@vercel/node@^1.15.1":
-  version "1.15.1"
-  resolved "https://registry.npmjs.org/@vercel/node/-/node-1.15.1.tgz"
-  integrity sha512-78Cki0sOyxXI2qQDyNUpJ1subEyusDEfodiFqQoZL1EF4EpZHrKlBgy0ckVu4L6J3xc2rUtSeEwMHErtx6cuJg==
+"@vercel/node@^1.15.2":
+  version "1.15.2"
+  resolved "https://registry.npmjs.org/@vercel/node/-/node-1.15.2.tgz"
+  integrity sha512-paHKi2u75/G5g6My/BTXc9uQlMnUxEHSedQepWEzb6d0VNclGAMbIb8KMjBP8/eZ//5qKPuVM3hgHjC3+pShkw==
   dependencies:
     "@types/node" "*"
     "@vercel/node-bridge" "2.2.1"
